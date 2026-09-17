@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="/Users/clement/Desktop/E6DD98BC-74BE-4AEA-A3FA-27F53F83CE68_1_105_c.jpeg" width="100%" alt="Clement J Header" />
+  <h1 src="/Users/clement/Desktop/E6DD98BC-74BE-4AEA-A3FA-27F53F83CE68_1_105_c.jpeg" width="100%" alt="Clement J" />
 </p>
 
 <p align="center">
